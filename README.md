@@ -1,5 +1,5 @@
-# Ruby on Rails Tutorial: sample application
+TWITTERISH
 
-This is the sample application for
-[*Ruby on Rails Tutorial: Learn Rails by Example*](http://railstutorial.org/)
-by [Michael Hartl](http://michaelhartl.com/).
+Initial attempt to create a full-pledged ruby on rails application.
+
+Following tutorial @ http://ruby.railstutorial.org/
