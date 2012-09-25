@@ -21,9 +21,9 @@ test:
   adapter: postgresql
   encoding: utf8
   reconnect: false
-  database: twitterish
+  database: twitterish_test
   username: twitterishadmin
-  password:
+  password: twitterishadmin
   host: localhost
   pool: 5
   timeout: 5000
